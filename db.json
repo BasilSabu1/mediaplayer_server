@@ -1,0 +1,37 @@
+{
+  "Videos": [
+    {
+      "id": "3",
+      "caption": "Daylight",
+      "url": "https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_740197931_lr.png",
+      "embedLink": "https://www.youtube.com/embed/MoN9ql6Yymw"
+    }
+  ],
+  "Category": [
+    {
+      "categoryName": "Comedy",
+      "allVideos": [],
+      "id": 4
+    },
+    {
+      "categoryName": "Hollywood",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Daylight",
+          "url": "https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_740197931_lr.png",
+          "embedLink": "https://www.youtube.com/embed/MoN9ql6Yymw"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "History": [
+    {
+      "caption": "See You Again",
+      "embedLink": "https://www.youtube.com/embed/RgKAFK5djSk",
+      "timeStamp": "11/09/2023, 08:24:34 PM",
+      "id": 4
+    }
+  ]
+}
